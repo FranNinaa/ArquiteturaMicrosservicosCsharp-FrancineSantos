@@ -300,3 +300,7 @@ Neste exemplo, os links fornecidos indicam como o cliente pode interagir com a t
 
 **Conclusão**
 O HATEOAS é fundamental para a criação de APIs verdadeiramente RESTful, pois promove uma forma de interação baseada em hipermídia que é dinâmica e autoexplicativa. No entanto, a adoção do HATEOAS implica em uma complexidade adicional no design da API e na implementação do cliente, o que pode explicar por que nem todas as APIs RESTful seguem rigorosamente este princípio.
+
+
+# Principais Conceitos de REST
+
